@@ -1,4 +1,4 @@
-Pass_word = "lzwdufhxkofvuxls"
+Pass_word = ""
 import random
 import pandas
 import datetime
